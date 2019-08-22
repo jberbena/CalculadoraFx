@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="CalculadoraFXIN5BM26934.jnlp">
+  <information>
+    <title>CalculadoraFXIN5BM26934</title>
+    <vendor>ICT02</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="CalculadoraFXIN5BM26934.jar" size="9597" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="CalculadoraFXIN5BM26934" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="org.jorgeecheverria.sistema.Principal"  name="CalculadoraFXIN5BM26934" />
+  <update check="always"/>
+</jnlp>
